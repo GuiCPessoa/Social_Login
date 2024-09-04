@@ -22,6 +22,5 @@ yarn dev
 Para iniciar o Projeto
 
 
-## Erros
-No meu caso deu alguns erros na instalação do Yarn, assim como qualquer coisa que seja tipo o npm. Apenas copiei as linhas de erro e joguei no ChatGPT, segui os passos e consegui resolver.
+
 
